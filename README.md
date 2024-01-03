@@ -1,2 +1,5 @@
 # learn-js-path
-Record my JS learning journey
+Record my JS learning journe
+
+
+testy
